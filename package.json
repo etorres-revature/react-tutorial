@@ -1,7 +1,12 @@
 {
   "name": "tic-tac-toe",
   "version": "0.1.0",
+  "description": "React.js tutorial from documentation to create tic-tac-toe game",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/etorres-revature/react-tutorial"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
